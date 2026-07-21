@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 uraaaa
+=======
+sdasdadadadsadsadadsadasdsadsadasdadasdadadsdsadasd
+>>>>>>> Stashed changes
